@@ -2,7 +2,7 @@ let colors = [];
 
 colors.push("green");
 colors.push("red");
-colors.push("yellow";)
+colors.push("yellow");
 
 let numbers = [1, 2, 3, 4, 5];
 
